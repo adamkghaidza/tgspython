@@ -28,16 +28,6 @@ print ("=============================================")
 #Berikut merupakan modifikasi dari ekspedisi dengan tambahan 2 kota,
 #yaitu Semarang dan Yogyakarta.
 
-#jika menggunakan list Kode dibawah ini, maka metode yang digunakan
-#adalah mendeteksi indeks value yang terpilih pada list kode.
-#caranya: melakukan pencarian pada list kode menggunakan 
-# nilai kode yang diinputkan
-#salah satu metode : gunakan while
-
-#algoritma:
-# baca berulang2 index dalam list kode, jika value sama dengan 
-# value pilihan, ambil index nya
-
 kode =['a','b','c','d']
 kota = ['surabaya','bandung','semarang','yogyakarta']
 jarak = [92,450,365,355]
